@@ -15,3 +15,9 @@ Codes related to loops were added and loop subject was exemplified.
 
 ## Arrays
 Codes that print the elements of a defined array to the screen have been added.
+
+## Dictionaries
+The codes of dictionary logic were transferred within the framework of logic.
+
+## Classes
+The logic of the classes was transferred with the code.
