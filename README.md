@@ -4,7 +4,7 @@ I aim to do small projects with the Python programming language.
 ## Hello World
 Codes for the HelloWorld.py file have been added. ( print function )
 
-## Calculator
+## Calculator ( Education )
 Codes for the Calculator.py file have been added. ( Addition, Multiplication, Subtraction, Division )
 
 ## Condition
@@ -21,3 +21,6 @@ The codes of dictionary logic were transferred within the framework of logic.
 
 ## Classes
 The logic of the classes was transferred with the code.
+
+## Calculator
+Calculator codes have been added. Level selection information and moving to the next section after answering a question have been added.
