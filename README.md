@@ -8,7 +8,10 @@ Codes for the HelloWorld.py file have been added. ( print function )
 Codes for the Calculator.py file have been added. ( Addition, Multiplication, Subtraction, Division )
 
 ## Condition
-The condition was checked according to the value of X and then the output was given to the screen.
+Condition checks were made and outputs were given to the screen. Condition codes were added and exemplified.
 
 ## Loop
-With this loop, we print the numbers from 1 to 5. In this case, 5 is not included.
+Codes related to loops were added and loop subject was exemplified.
+
+## Arrays
+Codes that print the elements of a defined array to the screen have been added.
